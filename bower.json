@@ -1,0 +1,14 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "authors": [
+    "Marcos Dioni Lima <madili2016@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5"
+  }
+}
